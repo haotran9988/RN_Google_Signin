@@ -60,16 +60,17 @@ const LoginGoogle = () => {
 export default LoginGoogle;
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: '#12c7ff',
     marginVertical: 10,
     justifyContent: 'center',
     alignItems: 'center',
-    borderRadius: 5,
     marginHorizontal: 20,
   },
   button: {
     padding: 10,
     flexDirection: 'row',
+    marginTop:10,
+    backgroundColor: '#12c7ff',
+    borderRadius: 5,
   },
   icon: {
     width: 25,

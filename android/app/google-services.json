@@ -14,11 +14,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "958361236240-mklccfs03s7r48imcjss702r44377i42.apps.googleusercontent.com",
+          "client_id": "958361236240-91j708u20go7aj28p5nndodvn7k4n7i9.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.rn_google_login",
-            "certificate_hash": "0d1a19c730ecd9ce0cf315e9806973b1d569b465"
+            "certificate_hash": "8e908212c0af36140490aad47f466e19a607f28e"
           }
         },
         {
@@ -37,6 +37,13 @@
             {
               "client_id": "958361236240-aa3qubgooh1qs06tj506e79i0ma0pbg4.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "958361236240-6e2ivt4fob18qts8eubq57om4anq64ss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RN-Google-login"
+              }
             }
           ]
         }
